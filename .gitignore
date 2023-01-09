@@ -1,0 +1,7 @@
+env/
+*.rst
+*.md
+*.json
+*.cfg
+*.in
+setup.py
